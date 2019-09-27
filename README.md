@@ -19,7 +19,7 @@
 
 ### Step3. Evaluation
 
-    python eval.py data/op/op_dist20_test_seed1234.pkl --model pretrained/op_dist20 --decode_strategy sample --width 1280 --eval_batch_size 1
+    python eval.py data/op/op_dist20_test_seed1234.pkl --model pretrained/op_dist_20 --decode_strategy sample --width 1280 --eval_batch_size 1
 
 **Note:**
 
